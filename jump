@@ -1,0 +1,39 @@
+using UnityEngine;
+
+public class PlayerController : MonoBehaviour
+    public float jumpForce = 20f; //점프력 수치 (수정가능)
+    private bool isJumping = false;
+    private Rigidbody2D rb;
+
+    private void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space) && !isJumping) // 점프 매커니즘을 실행하는 코드
+        {
+            rb.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
+            isJumping = true;
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision) // 바닥에 닿으면 점프를 중지하는 코드
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            isJumping = false;
+        }
+    }
+    
+    private void OnCollisionExit2D(Collision2D collision) // 공중에 떠있을때 중복 점프가 불가능하게 막는 코드
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            isJumping = true;
+        }
+    }
+//주의사항
+// 캐릭터에 rigidbody2D 컴포넌트를 적용 해야 함
+// 바닥을 "Ground"를 지정해야 함
