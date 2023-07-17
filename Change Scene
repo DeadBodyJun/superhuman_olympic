@@ -1,12 +1,13 @@
-// IntroScene.cs
-
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class IntroScene : MonoBehaviour
 {
-    public void OnButtonClick()
+    public void OnButtonClick() // 버튼을 클릭했을 때
     {
         SceneManager.LoadScene("MainScene"); // 메인 씬으로 전환
     }
 }
+// 주의사항
+// 인트로 씬에 적용해야 함
+// 메인 씬을 "MainScene"으로 해야 함
