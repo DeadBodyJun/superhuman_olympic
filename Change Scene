@@ -1,0 +1,12 @@
+// IntroScene.cs
+
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class IntroScene : MonoBehaviour
+{
+    public void OnButtonClick()
+    {
+        SceneManager.LoadScene("MainScene"); // 메인 씬으로 전환
+    }
+}
