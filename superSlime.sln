@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{73526278-5336-1FA1-6F6E-8BF953B11C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins.Baedrick.ColoredHeaderCreator", "Plugins.Baedrick.ColoredHeaderCreator.csproj", "{B5D7F530-2126-4977-5F82-6EC5F51817B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{C01275CA-B752-2972-FF76-F81F6E5B4623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins.Baedrick.ColoredHeaderCreator.Editor", "Plugins.Baedrick.ColoredHeaderCreator.Editor.csproj", "{D5CB7D29-C1E7-5994-F817-32EC15FE3E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73526278-5336-1FA1-6F6E-8BF953B11C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73526278-5336-1FA1-6F6E-8BF953B11C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73526278-5336-1FA1-6F6E-8BF953B11C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73526278-5336-1FA1-6F6E-8BF953B11C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D7F530-2126-4977-5F82-6EC5F51817B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D7F530-2126-4977-5F82-6EC5F51817B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D7F530-2126-4977-5F82-6EC5F51817B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D7F530-2126-4977-5F82-6EC5F51817B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01275CA-B752-2972-FF76-F81F6E5B4623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01275CA-B752-2972-FF76-F81F6E5B4623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01275CA-B752-2972-FF76-F81F6E5B4623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01275CA-B752-2972-FF76-F81F6E5B4623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5CB7D29-C1E7-5994-F817-32EC15FE3E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CB7D29-C1E7-5994-F817-32EC15FE3E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CB7D29-C1E7-5994-F817-32EC15FE3E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CB7D29-C1E7-5994-F817-32EC15FE3E92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
