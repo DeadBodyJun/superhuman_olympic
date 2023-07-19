@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D5CB7D29-C1E7-5994-F817-32EC15FE3E92}</ProjectGuid>
+    <ProjectGuid>{B167ADB0-CBA6-7BDB-E9FE-D37D57F4EE17}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Plugins.Baedrick.ColoredHeaderCreator.Editor</AssemblyName>
@@ -758,7 +758,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Plugins.Baedrick.ColoredHeaderCreator.csproj">
-      <Project>{B5D7F530-2126-4977-5F82-6EC5F51817B7}</Project>
+      <Project>{D00B3700-61D1-625D-A3A6-0A4E5C0A0DAA}</Project>
       <Name>Plugins.Baedrick.ColoredHeaderCreator</Name>
     </ProjectReference>
   </ItemGroup>

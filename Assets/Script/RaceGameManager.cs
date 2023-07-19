@@ -15,7 +15,7 @@ public class RaceGameManager: MonoBehaviour
         if(Input.GetKeyUp(KeyCode.Space))
         {
             Speed += 15f;
-            Player.GetComponent<Rigidbody>().AddForce(0,0,Speed*Time.deltaTime*10);
+            Player.GetComponent<Rigidbody>().AddForce(0,0,Speed*Time.deltaTime*50);
         }
     }
 }

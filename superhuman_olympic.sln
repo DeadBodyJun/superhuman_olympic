@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{56BC6E24-DA02-8FCB-72F9-3AB33CADB671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins.Baedrick.ColoredHeaderCreator", "Plugins.Baedrick.ColoredHeaderCreator.csproj", "{D00B3700-61D1-625D-A3A6-0A4E5C0A0DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{710E9EE5-1AA0-D69B-E9FA-BCAF93396DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins.Baedrick.ColoredHeaderCreator.Editor", "Plugins.Baedrick.ColoredHeaderCreator.Editor.csproj", "{B167ADB0-CBA6-7BDB-E9FE-D37D57F4EE17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56BC6E24-DA02-8FCB-72F9-3AB33CADB671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BC6E24-DA02-8FCB-72F9-3AB33CADB671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BC6E24-DA02-8FCB-72F9-3AB33CADB671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BC6E24-DA02-8FCB-72F9-3AB33CADB671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00B3700-61D1-625D-A3A6-0A4E5C0A0DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00B3700-61D1-625D-A3A6-0A4E5C0A0DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00B3700-61D1-625D-A3A6-0A4E5C0A0DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00B3700-61D1-625D-A3A6-0A4E5C0A0DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710E9EE5-1AA0-D69B-E9FA-BCAF93396DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710E9EE5-1AA0-D69B-E9FA-BCAF93396DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710E9EE5-1AA0-D69B-E9FA-BCAF93396DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710E9EE5-1AA0-D69B-E9FA-BCAF93396DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B167ADB0-CBA6-7BDB-E9FE-D37D57F4EE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B167ADB0-CBA6-7BDB-E9FE-D37D57F4EE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B167ADB0-CBA6-7BDB-E9FE-D37D57F4EE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B167ADB0-CBA6-7BDB-E9FE-D37D57F4EE17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

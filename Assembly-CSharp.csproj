@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{73526278-5336-1FA1-6F6E-8BF953B11C63}</ProjectGuid>
+    <ProjectGuid>{56BC6E24-DA02-8FCB-72F9-3AB33CADB671}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -772,15 +772,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{C01275CA-B752-2972-FF76-F81F6E5B4623}</Project>
+      <Project>{710E9EE5-1AA0-D69B-E9FA-BCAF93396DA2}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="Plugins.Baedrick.ColoredHeaderCreator.Editor.csproj">
-      <Project>{D5CB7D29-C1E7-5994-F817-32EC15FE3E92}</Project>
+      <Project>{B167ADB0-CBA6-7BDB-E9FE-D37D57F4EE17}</Project>
       <Name>Plugins.Baedrick.ColoredHeaderCreator.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Plugins.Baedrick.ColoredHeaderCreator.csproj">
-      <Project>{B5D7F530-2126-4977-5F82-6EC5F51817B7}</Project>
+      <Project>{D00B3700-61D1-625D-A3A6-0A4E5C0A0DAA}</Project>
       <Name>Plugins.Baedrick.ColoredHeaderCreator</Name>
     </ProjectReference>
   </ItemGroup>
