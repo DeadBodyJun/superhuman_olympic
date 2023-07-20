@@ -867,6 +867,7 @@ MonoBehaviour:
   Focus: {fileID: 0}
   player: {fileID: 304621805}
   offset: {x: 0, y: 3, z: -4}
+  sum: 64
 --- !u!114 &963194231
 MonoBehaviour:
   m_ObjectHideFlags: 0

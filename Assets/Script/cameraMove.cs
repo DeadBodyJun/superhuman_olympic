@@ -6,10 +6,10 @@ using UnityEngine;
 public class cameraMove : MonoBehaviour
 {
     public RaceGameManager race;
-    public CameraFilterPack_Blur_Focus Focus;
-    public Transform player;  // 따라다닐 플레이어의 Transform 컴포넌트
-    public Vector3 offset = new Vector3(0f, 2, -6f);  // 카메라와 플레이어 간의 초기 오프셋
-   
+    public CameraFilterPack_Blur_Focus Focus;           
+    public Transform player;                             // 따라다닐 플레이어의 Transform 컴포넌트
+    public Vector3 offset = new Vector3(0f, 2, -6f);     // 카메라와 플레이어 간의 초기 오프셋
+    public float sum = 64f;                              // focus_Eyes 직접사용시 에러 발생으로 간접사용을 위한 값
     private void Start()
     {
         GameObject obj = GameObject.Find("Slime_01");
@@ -23,6 +23,7 @@ public class cameraMove : MonoBehaviour
         {
             Focus = script.GetComponent<CameraFilterPack_Blur_Focus>();
         }
+        
     }
 
     
@@ -30,38 +31,37 @@ public class cameraMove : MonoBehaviour
         {
         // 플레이어 위치에 따라 카메라를 이동시킴
         float y = transform.position.y; //카메라 y값 고정용
-        double check = Focus._Eyes;
+        
         transform.position = new Vector3 (0, y, player.position.z - 3); //카메라 x, y값 고정하고 z축 위치만큼 힘주기
         
-        if (race.Speed <= 500)
+        if (race.Speed <= 500)                                          // 속도 낮을시 Fov와 블러값 조절
         {
             this.gameObject.GetComponent<Camera>().fieldOfView -= 0.02f;
-            Focus._Eyes += 300f * Time.deltaTime;                                   //매끄럽지않아서 조정필수
-            Debug.Log(Focus._Eyes);
+            sum += 0.02f; 
+            Focus._Eyes = sum;                                   
+            Debug.Log(sum);
             if (this.gameObject.GetComponent<Camera>().fieldOfView <=30)
             {
                this.gameObject.GetComponent<Camera>().fieldOfView = 30;
             }
-            if (Focus._Eyes >= 64f)
-            {
-                Debug.Log(Focus._Eyes);
-                Focus._Eyes = 64f;      //1
+            if (sum >= 64f)
+            {          
+                sum = 64f;      
             }
         }
 
-        if (race.Speed <= 800 && race.Speed >= 501)
+        if (race.Speed <= 800 && race.Speed >= 501)                     // 속도 높을시 Fov와 블러값 조절
         {
             this.gameObject.GetComponent<Camera>().fieldOfView += 0.03f;
-            Focus._Eyes -= 5000f * Time.deltaTime;                                  //매끄럽지않아서 조정필수
-            Debug.Log(Focus._Eyes);
+            sum -= 0.02f;
+            Focus._Eyes = sum;                          
             if (this.gameObject.GetComponent<Camera>().fieldOfView >= 45)
             {
                 this.gameObject.GetComponent<Camera>().fieldOfView = 45;
             }       
-            if (Focus._Eyes <= 10f)
-            {
-                Debug.Log(Focus._Eyes);
-                Focus._Eyes = 10f;      //2
+            if (sum <= 10f)
+            {               
+                sum = 10f;      //2
             }
         }
        
