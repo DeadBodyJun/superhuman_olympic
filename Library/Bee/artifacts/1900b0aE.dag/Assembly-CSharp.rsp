@@ -579,6 +579,7 @@
 "Assets/Kawaii Slimes/Scripts/AI/Face.cs"
 "Assets/Kawaii Slimes/Scripts/GameManager.cs"
 "Assets/Script/cameraMove.cs"
+"Assets/Script/npcScript.cs"
 "Assets/Script/RaceGameManager.cs"
 -langversion:9.0
 
