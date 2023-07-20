@@ -34,10 +34,10 @@ public class cameraMove : MonoBehaviour
         
         transform.position = new Vector3 (0, y, player.position.z - 3); //카메라 x, y값 고정하고 z축 위치만큼 힘주기
         
-        if (race.Speed <= 500)                                          // 속도 낮을시 Fov와 블러값 조절
+        if (race.Speed <= 500)                                          // 속도 낮을때 Fov와 블러값 조절
         {
-            this.gameObject.GetComponent<Camera>().fieldOfView -= 0.02f;
-            sum += 0.02f; 
+            this.gameObject.GetComponent<Camera>().fieldOfView -= 0.02f;// fov 조절시 여기
+            sum += 0.02f;                                               // 블러 조절시 여기
             Focus._Eyes = sum;                                   
             Debug.Log(sum);
             if (this.gameObject.GetComponent<Camera>().fieldOfView <=30)
@@ -50,10 +50,10 @@ public class cameraMove : MonoBehaviour
             }
         }
 
-        if (race.Speed <= 800 && race.Speed >= 501)                     // 속도 높을시 Fov와 블러값 조절
+        if (race.Speed <= 800 && race.Speed >= 501)                     // 속도 높을때 Fov와 블러값 조절
         {
-            this.gameObject.GetComponent<Camera>().fieldOfView += 0.03f;
-            sum -= 0.02f;
+            this.gameObject.GetComponent<Camera>().fieldOfView += 0.03f;// fov 조절시 여기
+            sum -= 0.02f;                                               // 블러 조절시 여기
             Focus._Eyes = sum;                          
             if (this.gameObject.GetComponent<Camera>().fieldOfView >= 45)
             {
