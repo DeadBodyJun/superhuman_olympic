@@ -1,3 +1,4 @@
+using DG.Tweening;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,10 +6,10 @@ using UnityEngine;
 public class cameraMove : MonoBehaviour
 {
     public RaceGameManager race;
+    public CameraFilterPack_Blur_Focus Focus;
     public Transform player;  // 따라다닐 플레이어의 Transform 컴포넌트
-
-    public Vector3 offset = new Vector3(0f, 5, -10f);  // 카메라와 플레이어 간의 초기 오프셋
-
+    public Vector3 offset = new Vector3(0f, 2, -6f);  // 카메라와 플레이어 간의 초기 오프셋
+   
     private void Start()
     {
         GameObject obj = GameObject.Find("Slime_01");
@@ -17,22 +18,58 @@ public class cameraMove : MonoBehaviour
             race = obj.GetComponent<RaceGameManager>();
         }
 
-    }
-        void LateUpdate()
+        GameObject script = GameObject.Find("Main Camera");
+        if (script != null)
         {
-          // 플레이어 위치에 따라 카메라를 이동시킴
-          transform.position = offset + player.position;
-          if(race.Speed >= 500)
-          {
-            this.gameObject.GetComponent<Camera>().fieldOfView -=1;
-            if(this.gameObject.GetComponent<Camera>().fieldOfView <=45)
-            {
-                this.gameObject.GetComponent<Camera>().fieldOfView = 30;
-            }
-          }
-        
+            Focus = script.GetComponent<CameraFilterPack_Blur_Focus>();
         }
+    }
+
+    
+    void Update()
+        {
+        // 플레이어 위치에 따라 카메라를 이동시킴
+        float y = transform.position.y; //카메라 y값 고정용
+        double check = Focus._Eyes;
+        transform.position = new Vector3 (0, y, player.position.z - 3); //카메라 x, y값 고정하고 z축 위치만큼 힘주기
+        
+        if (race.Speed <= 500)
+        {
+            this.gameObject.GetComponent<Camera>().fieldOfView -= 0.02f;
+            Focus._Eyes += 300f * Time.deltaTime;                                   //매끄럽지않아서 조정필수
+            Debug.Log(Focus._Eyes);
+            if (this.gameObject.GetComponent<Camera>().fieldOfView <=30)
+            {
+               this.gameObject.GetComponent<Camera>().fieldOfView = 30;
+            }
+            if (Focus._Eyes >= 64f)
+            {
+                Debug.Log(Focus._Eyes);
+                Focus._Eyes = 64f;      //1
+            }
+        }
+
+        if (race.Speed <= 800 && race.Speed >= 501)
+        {
+            this.gameObject.GetComponent<Camera>().fieldOfView += 0.03f;
+            Focus._Eyes -= 5000f * Time.deltaTime;                                  //매끄럽지않아서 조정필수
+            Debug.Log(Focus._Eyes);
+            if (this.gameObject.GetComponent<Camera>().fieldOfView >= 45)
+            {
+                this.gameObject.GetComponent<Camera>().fieldOfView = 45;
+            }       
+            if (Focus._Eyes <= 10f)
+            {
+                Debug.Log(Focus._Eyes);
+                Focus._Eyes = 10f;      //2
+            }
+        }
+       
+    }
+
 }
+
+
 /*
  카메라 포커스 렌더링하는거 조절하자 애들아 형이 여기다가 하는법 적어둔다
 
@@ -43,7 +80,7 @@ main camera 하이어라키창가서 addComponent에서 camera filter pack이라고 폴더있다 
 
 if(race.Speed > 500)
 {
-     this.gameObject.GetComponent<Focus>().Eyes = 30;
+     this.gameObject.GetComponent<CameraFilterPack_Blur_Focus>()._Eyes = 30;
 }
 이런식으로 너네가 가져오고싶은 값을 가져와서 숫자로 조절하면된다 쉽지?
 하지만 이게 완전 노가다라서 여러명이서 해야 편하다.
