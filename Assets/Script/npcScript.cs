@@ -15,7 +15,7 @@ public class npcScript : MonoBehaviour
     {
         // Scene에서 RaceGameManager 스크립트를 찾아서 가져옵니다.
         raceGameManager = FindObjectOfType<RaceGameManager>();
-
+        Debug.Log(Npc.transform.position.z);
         RaceGameManager.instance.NpcZ = Npc.transform.position.z;
         Distance = RaceGameManager.instance.PlayerZ - RaceGameManager.instance.NpcZ;
     }

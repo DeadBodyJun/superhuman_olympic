@@ -41,7 +41,7 @@ public class RaceGameManager : MonoBehaviour
     {
         Speed = 0f;
 
-        PlayerZ = Player.transform.position.z; //초기 위치 저장
+        PlayerZ = Player.GetComponent<Transform>().position.z; //초기 위치 저장
         
     }
 
