@@ -951,7 +951,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57e20317ec8ee384db521f9003079129, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  race: {fileID: 0}
+  race: {fileID: 304621806}
   player: {fileID: 304621805}
   offset: {x: 0, y: 5, z: -10}
 --- !u!114 &963194231
