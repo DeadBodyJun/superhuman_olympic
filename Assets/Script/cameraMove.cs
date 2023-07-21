@@ -7,7 +7,8 @@ public class cameraMove : MonoBehaviour
     public RaceGameManager race;
     public Transform player;  // 따라다닐 플레이어의 Transform 컴포넌트
 
-    public Vector3 offset = new Vector3(0f, 5, -10f);  // 카메라와 플레이어 간의 초기 오프셋
+    public Vector3 offset = new Vector3(1f, 5, -5f);  // 카메라와 플레이어 간의 초기 오프셋
+    //카메라 무브 스크립트 오프셋 값을 0f, 5, -10f 에서 1f, 5, -5f로 변경(임시)
 
     private void Start()
     {
