@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>UNITY_2021_3_20;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_20;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -56,230 +56,231 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Kawaii Slimes\Scripts\AI\Face.cs" />
-    <Compile Include="Assets\Kawaii Slimes\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Kawaii Slimes\Cameras\Scripts\FreeLookCam.cs" />
-    <Compile Include="Assets\Kawaii Slimes\Cameras\Scripts\PivotBasedCameraRig.cs" />
-    <Compile Include="Assets\Script\cameraMove.cs" />
-    <Compile Include="Assets\Kawaii Slimes\Cameras\Scripts\AbstractTargetFollower.cs" />
-    <Compile Include="Assets\Kawaii Slimes\Scripts\AI\EnemyAi.cs" />
-    <Compile Include="Assets\Script\RaceGameManager.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_GrayScale.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga_FlashWhite.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Hue.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Bloom.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenCircle.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_VHS_Tracking.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_VividLight.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenHorizontal.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Rainbow.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_Blood.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Glitch3.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Dissipation.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Heat.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Old.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Wave_Horizontal.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Divide.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Crystal.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_ThermaVision.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Invert.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Comics.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_8bits.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga_Color.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_BlurHole.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_LinearLight.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Old_Movie.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Contrast.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_NeonGradient.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Darken.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Noise.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_AuraDistortion.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Rainbow.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_BrokenGlass.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenVertical.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_SuperHexagon.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Film_ColorPerfection.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_FishEye.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Videoflip.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixelisation_Dot.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Subtract.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_HardLight.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Lens.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_CellShading.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_BigFace.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Chromatic_Aberration.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Saturation.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Neon.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision3.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_ARCADE.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Alien_Vision.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Sigmoid.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Steam.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_VHS_Rewind.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Psycho.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_ColorBurn.cs" />
+    <Compile Include="Assets\Kawaii Slimes\Scripts\AI\Face.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_WaterDrop.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Drunk2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_VHS.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_superDot.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Glitch_Mozaic.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_DigitalMatrixDistortion.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_NightVision_4.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Film_Grain.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Sobel.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision5.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_PlanetMars.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Dot_Circle.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_DarkerColor.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Blend.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga4.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga5.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Glitch1.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Light_Rainbow2.cs" />
+    <Compile Include="Assets\Kawaii Slimes\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Rgb.cs" />
+    <Compile Include="Assets\Script\npcScript.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Atmosphere_Snow_8bits.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EyesVision_1.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Dissipation.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Wave_Horizontal.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_VHS.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Light_Rainbow.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Chromatical2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Adjust_PreFilters.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_OldFilm_Cutting1.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_SplitScreen.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Special_Bubble.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_BlackLine.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_SoftLight.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_8bits_gb.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Scan.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Dream2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_DitherOffset.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Psycho.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_PlanetMars.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Noise.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Dot_Circle.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_ARCADE_2.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Retro_Loading.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_CellShading2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Movie.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Screen.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_BlackHole.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_DarkerColor.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Overlay.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_EnhancedComics.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_RGB.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Drunk.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Dream.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Blend.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EXTRA_SHOWFPS.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Screens.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga3.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_BrokenGlass2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Luminosity.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Drost.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_YUV.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga4.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Grid.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixelisation_OilPaintHQ.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_ShockWave.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Posterize.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_HUE_Rotate.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_PinLight.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_80.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_GaussianBlur.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Therma.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blizzard.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Tech.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Desert.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Light_Water.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Sharpen_Sharpen.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_GreenScreen.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_LinearDodge.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Dithering2x2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_OldFilm_Cutting2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Blurry.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Vintage.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_ARCADE_2.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Adjust_ColorRGB.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Threshold.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_NewPosterize.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenHV.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Half_Sphere.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Mirror.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Hypno.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_HSV.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Curve.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision1.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga_Flash.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EyesVision_2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga5.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Vintage.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_ZebraColor.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Multiply.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Radial_Fast.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Toon.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Hexagon_Black.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Focus.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Golden.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Blood.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Real_VHS.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Distorted.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Glitch1.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Flush.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Light_Rainbow2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Laplacian.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Old_Movie_2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Lighten.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_ElectricGradient.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_CompressionFX.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_NewCellShading.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_EarthQuake.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Plasma.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Light_Water2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Ansi.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Radial.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Warp.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Aura.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Halftone.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_DigitalMatrix.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Stripe.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Noise.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Water_Drop.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Rgb.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Hexagon.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Tiles.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Antialiasing_FXAA.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Spot.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Crosshatch.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_DarkColor.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Adjust_FullColors.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_FireGradient.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Plasma.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixelisation_OilPaint.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Atmosphere_Snow_8bits.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_InverChromiLum.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_HardMix.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Sepia.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Lines.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_LED.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Vcr.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EXTRA_Rotation.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_ColorDodge.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Noise.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_LinearBurn.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Chromatical.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_PhotoshopFilters.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Color.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Warp2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Regular.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_NightVisionFX.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_BrightContrastSaturation.cs" />
+    <Compile Include="Assets\Kawaii Slimes\Cameras\Scripts\FreeLookCam.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Old.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_BrokenGlass.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Videoflip.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Dream2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Grid.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_80.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EyesVision_2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Light_Water2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Noise.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Crosshatch.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_50.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Edge_filter.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixel_Pixelisation.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Difference.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Artefact.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EyesVision_1.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Tunnel.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_BlueScreen.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Hue.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_LinearLight.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_AuraDistortion.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Alien_Vision.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Sigmoid.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_DigitalMatrixDistortion.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Adjust_PreFilters.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_CellShading2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EXTRA_SHOWFPS.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Posterize.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_PinLight.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenHV.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Hexagon_Black.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Blood.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Flush.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_FireGradient.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Funk.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Crystal.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_8bits.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixelisation_Dot.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Movie.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Drunk.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blizzard.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Sharpen_Sharpen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Half_Sphere.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Hypno.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Real_VHS.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Ansi.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_InverChromiLum.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Difference.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_SuperComputer.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Glitch2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Bloom.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Lens.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Screens.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Luminosity.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_HSV.cs" />
+    <Compile Include="Assets\Kawaii Slimes\Cameras\Scripts\PivotBasedCameraRig.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_DigitalMatrix.cs" />
+    <Compile Include="Assets\Script\cameraMove.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_PhotoshopFilters.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Warp2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Artefact.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_LighterColor.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Glitch3.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Comics.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Old_Movie.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Darken.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision5.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_OldFilm_Cutting1.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Special_Bubble.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_ShockWave.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Adjust_FullColors.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Lines.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_BrightContrastSaturation.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_GrayScale.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenCircle.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_VividLight.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision1.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Toon.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Lighten.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Water_Drop.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_LinearBurn.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixel_Pixelisation.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Brightness.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Flag.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Video3D.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Switching.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga2.cs" />
-    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Exclusion.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenVertical.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Neon.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_VHS_Rewind.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Scan.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_DitherOffset.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Noise.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Dream.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_GreenScreen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Warp.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Halftone.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Hexagon.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Regular.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_HardLight.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Sobel.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_8bits_gb.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Overlay.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_NewPosterize.cs" />
+    <Compile Include="Assets\Kawaii Slimes\Cameras\Scripts\AbstractTargetFollower.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Spot.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Antialiasing_FXAA.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_ColorDodge.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Chromatical.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_NightVisionFX.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Edge_filter.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Tunnel.cs" />
     <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Ascii.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Hue.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga_FlashWhite.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Rainbow.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_CellShading.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_ColorBurn.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Glitch_Mozaic.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_NightVision_4.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_EnhancedComics.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga3.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_BrokenGlass2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Drost.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Dithering2x2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Old_Movie_2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_ElectricGradient.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Radial.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Color.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Noise.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_SuperHexagon.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Subtract.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Saturation.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision3.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_SplitScreen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Screen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Desert.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_NewCellShading.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_DarkColor.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Vcr.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Switching.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenHorizontal.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_FishEye.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_BlackHole.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Tech.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Mirror.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Multiply.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Laplacian.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_CompressionFX.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_EarthQuake.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Plasma.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_HardMix.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Video3D.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Rainbow.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Divide.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga_Color.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_BlurHole.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Film_ColorPerfection.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Steam.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_BlackLine.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_SoftLight.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_YUV.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_HUE_Rotate.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Therma.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Radial_Fast.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Golden.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Stripe.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Flag.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_Blood.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_NeonGradient.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_ARCADE.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Psycho.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Drunk2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_superDot.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Psycho.cs" />
+    <Compile Include="Assets\Kawaii Slimes\Scripts\AI\EnemyAi.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixelisation_OilPaintHQ.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Light_Water.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_LinearDodge.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_OldFilm_Cutting2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Threshold.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga_Flash.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Distorted.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Plasma.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Aura.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Sepia.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EXTRA_Rotation.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_BlueScreen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Exclusion.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_VHS_Tracking.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Invert.cs" />
+    <Compile Include="Assets\Script\RaceGameManager.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_RGB.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_GaussianBlur.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Blurry.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Curve.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Focus.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Tiles.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixelisation_OilPaint.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Noise.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_ZebraColor.shader" />
@@ -1136,23 +1137,17 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Shared.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
       <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
@@ -1172,26 +1167,26 @@
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
       <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+    <Reference Include="Unity.Postprocessing.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+    <Reference Include="Unity.InputSystem">
+      <HintPath>Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.State">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
@@ -1199,11 +1194,20 @@
     <Reference Include="Unity.EditorCoroutines.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Shared.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -1211,13 +1215,13 @@
       <Project>{710E9EE5-1AA0-D69B-E9FA-BCAF93396DA2}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
-    <ProjectReference Include="Plugins.Baedrick.ColoredHeaderCreator.Editor.csproj">
-      <Project>{B167ADB0-CBA6-7BDB-E9FE-D37D57F4EE17}</Project>
-      <Name>Plugins.Baedrick.ColoredHeaderCreator.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Plugins.Baedrick.ColoredHeaderCreator.csproj">
       <Project>{D00B3700-61D1-625D-A3A6-0A4E5C0A0DAA}</Project>
       <Name>Plugins.Baedrick.ColoredHeaderCreator</Name>
+    </ProjectReference>
+    <ProjectReference Include="Plugins.Baedrick.ColoredHeaderCreator.Editor.csproj">
+      <Project>{B167ADB0-CBA6-7BDB-E9FE-D37D57F4EE17}</Project>
+      <Name>Plugins.Baedrick.ColoredHeaderCreator.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
